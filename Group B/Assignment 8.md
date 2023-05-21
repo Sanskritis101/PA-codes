@@ -32,3 +32,6 @@ PORTD=0x00;}
 
 **Output:**
 
+![image](https://github.com/Sanskritis101/PA-codes/assets/104347305/ee3260e3-4220-4f07-9646-ea60b83ab3a1)
+
+![image](https://github.com/Sanskritis101/PA-codes/assets/104347305/9f095fa9-297a-42b1-967b-dc4030ed8216)
