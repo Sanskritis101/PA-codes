@@ -1,7 +1,5 @@
 Name : Sanskriti Singh
 
-Roll no : SIB51
-
 PA Assignment No .4: Ascending-Descending
 -----------------------------------------------------------------------------
 Code:
