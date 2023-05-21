@@ -27,7 +27,9 @@ return 0;
 }
 ```
 
-![image](https://github.com/Sanskritis101/PA-codes/assets/104347305/d293cd1b-a9af-4679-8b00-d1365d751ec7)
+**Output:**
 
 ![image](https://github.com/Sanskritis101/PA-codes/assets/104347305/cb27ed5b-6c53-40f0-865e-33b46ba38859)
+
+![image](https://github.com/Sanskritis101/PA-codes/assets/104347305/d293cd1b-a9af-4679-8b00-d1365d751ec7)
 
