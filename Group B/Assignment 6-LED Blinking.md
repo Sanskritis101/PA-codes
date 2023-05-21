@@ -1,6 +1,7 @@
 LED Blinking
 
-Code:
+**Code:**
+
 ```C
 #include <xc.h>
 #include <stdio.h>
@@ -28,3 +29,7 @@ PORTD = 0x00 ;
 todelay();
 }
 ```
+
+**Output:**
+
+![image](https://github.com/Sanskritis101/PA-codes/assets/104347305/360d67e0-7c67-4b18-89e6-3316e2cb7b99)
