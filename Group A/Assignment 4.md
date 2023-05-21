@@ -36,4 +36,6 @@ return ;
 
 ```
 
+**Output**
+
 ![image](https://github.com/Sanskritis101/PA-codes/assets/104347305/7d17088d-9d3c-4d09-a221-d51f0d1df2ac)
