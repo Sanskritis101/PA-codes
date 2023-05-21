@@ -1,5 +1,6 @@
+Addition of n numbers in array
 
-Code:
+**Code:**
 ```
 #include <stdio.h>
 #include <stdlib.h>
