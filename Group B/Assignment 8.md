@@ -1,4 +1,4 @@
-Timer as Counter
+*Timer as Counter*
 
 **Code:**
 
