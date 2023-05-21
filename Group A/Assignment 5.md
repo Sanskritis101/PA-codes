@@ -1,5 +1,6 @@
 Multiply and Divide by 8 bit code
-Code:
+
+**Code:**
 
 ```C
 #include <xc.h>
