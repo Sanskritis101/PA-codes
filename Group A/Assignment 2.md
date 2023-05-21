@@ -1,6 +1,8 @@
 Name : Sanskriti Singh
+
 Roll no : SIB51
-PA Assignment No .4
+
+PA Assignment No .4: Ascending-Descending
 -----------------------------------------------------------------------------
 Code:
 ```C
@@ -31,4 +33,7 @@ for(int n = 0 ; n < 100 ; n++){
 }
 return ;
 }
+
 ```
+
+![image](https://github.com/Sanskritis101/PA-codes/assets/104347305/7d17088d-9d3c-4d09-a221-d51f0d1df2ac)
