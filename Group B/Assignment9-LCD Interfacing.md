@@ -48,8 +48,8 @@ void InitLCD(void){
 }
 /********************************************************************************************************************/
 
-unsigned char *String1 = " ashish";
-unsigned char *String2 = " PIC-18F Board";
+unsigned char *String1 = " Sanskriti";
+unsigned char *String2 = " LCD";
 
 void main(void){
     ADCON1 = 0x0F;
